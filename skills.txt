@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numan Ahmad's Technical Skills</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Include navigation here -->
+    </header>
+    
+    <main>
+        <section class="skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>JavaScript</li>
+                <li>Web Design</li>
+                <li>Responsive Web Development</li>
+                <!-- I will add more skills as needed -->
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <!-- Include footer content here -->
+    </footer>
+</body>
+</html>

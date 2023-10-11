@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numan Ahmad's Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Include navigation here -->
+    </header>
+    
+    <main>
+        <section class="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Project Title 1</h3>
+                    <p>Still working on these projects, but in this template the description of the project goes here.</p>
+                </li>
+                <li>
+                    <h3>Project Title 2</h3>
+                    <p>Here as well</p>
+                </li>
+                <!-- I will add more projects as needed -->
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <!-- Include footer content here -->
+    </footer>
+</body>
+</html>
